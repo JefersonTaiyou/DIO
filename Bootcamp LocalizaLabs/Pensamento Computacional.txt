@@ -1,5 +1,20 @@
 Pilares do pensamento computacional:
   - Decomposição;
+    Dividir o problema em subproblemas mais simples de ser resolvidos
+    
   - Reconhecimento de padrões;
+    Identificar padrões e tendências do que é similar ou diferente nos problemas
+    
   - Abstração;
+    Pegar uma particularidade do problema e extraporlar até se tornar generalista
+  
   - Design de Algoritmos;
+    Automatizar definindo passo a passo da resolução do problema
+    
+   -Complementares:
+      - Raciocínio Lógico;
+      - Aprimoramento;
+        Encontrar a solução mais eficiente, otimizando os processos e simplificando as linhas de código com funções bem definidas;
+    
+Uma vez elaborado todos os processos necessários, deve-se lembrar de aperfeiçoar o que foi criado;
+  Realizar testes, analise do resultado dos testes e aprimoramento do que for necessário ajustar/melhorar de acordo com a análise feita -- Esse processo deve ser continuo.
