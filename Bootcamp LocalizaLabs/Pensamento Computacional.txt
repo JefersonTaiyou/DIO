@@ -1,0 +1,5 @@
+Pilares do pensamento computacional:
+  - Decomposição;
+  - Reconhecimento de padrões;
+  - Abstração;
+  - Design de Algoritmos;
