@@ -29,6 +29,15 @@ namespace PrimeiroProjeto
             var a = "Hello";
             var b = "World";
             Console.WriteLine($"{a} {b}");
+            
+            var s = new Pilha();
+            s.Empilha(1);
+            s.Empilha(10);
+            s.Empilha(100);
+            Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
+            
         }
     }
 }
