@@ -13,8 +13,11 @@ Repositório contendo as resoluções dos Desafios/Projetos realizados durante o
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" style="max-width: 100%;" width="35" height="35" align="center"> Conceitos .Net <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" style="max-width: 100%;" width="35" height="35" align="center">
-  Interfaces | Enums | Structs | Classes | Objetos | Herança | Polimorfismo |
-  :----: | :----: |  :----: | :----: | :----: | :----: | :----: |
+ Arrays | Interfaces | Enums | Structs |
+ :----: |  :----: | :----: |  :----: |
+  
+ Classes | Objetos | Herança | Polimorfismo |
+ :----: | :----: | :----: | :----: |
   
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" style="max-width: 100%;" width="35" height="35" align="center"> Instruções .Net <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" style="max-width: 100%;" width="35" height="35" align="center">
   If | Switch | While | Do | For | Foreach |
