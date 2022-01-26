@@ -3,7 +3,37 @@
 Repositório contendo as resoluções dos Desafios/Projetos realizados durante os Bootcamps da DIO
 
 ## Links Uteis:
-- [Doc Sintaxe Markdown](https://www.markdownguide.org/basic-syntax/)
+- [Sintaxe Markdown [Docs]](https://www.markdownguide.org/basic-syntax/)
+- [IOC e DI](http://www.macoratti.net/11/07/ioc_di1.htm)
+- [Maching Learning - Azure [Docs]](https://docs.microsoft.com/pt-br/azure/machine-learning/)
+- [Criação de Jogos C# - MonoGame [Docs]](https://docs.monogame.net/?page=main)
+- [Criação de Jogos C# - CRYENGINE [Docs]](https://docs.cryengine.com/display/CEPROG/C%23+Programming)
+- [Criação de Jogos C# - Unity [Docs]](https://docs.unity3d.com/Manual/index.html)
+
+<div align="center">
+  
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" style="max-width: 100%;" width="35" height="35" align="center"> Conceitos .Net <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" style="max-width: 100%;" width="35" height="35" align="center">
+  Interfaces | Enums | Structs | Classes | Objetos | Herança | Polimorfismo |
+  :----: | :----: |  :----: | :----: | :----: | :----: | :----: |
+  
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" style="max-width: 100%;" width="35" height="35" align="center"> Instruções .Net <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" style="max-width: 100%;" width="35" height="35" align="center">
+  If | Switch | While | Do | For | Foreach |
+  :----: | :----: |  :----: | :----: | :----: | :----: |
+  
+  
+  Break | Continue | Return | Throw | Try...Catch...Finally | Using |
+  :----: | :----: |  :----: | :----: | :----: | :----: |
+
+</div>
+  
+## Engines para Criação de Jogos C#
+- Unity
+- MonoGame
+- Godot
+- Stride
+- Wave Engine
+- FlatRedBall
+- Cryengine
 
 ## Desafios de Linguagem:
 - 
