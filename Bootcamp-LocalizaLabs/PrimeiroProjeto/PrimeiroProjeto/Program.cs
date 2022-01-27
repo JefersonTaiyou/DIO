@@ -31,12 +31,12 @@ namespace PrimeiroProjeto
             Console.WriteLine($"{a} {b}");
             
             var s = new Pilha();
-            s.Empilha(1);
-            s.Empilha(10);
-            s.Empilha(100);
-            Console.WriteLine(s.Desempilha());
-            Console.WriteLine(s.Desempilha());
-            Console.WriteLine(s.Desempilha());
+            s.Empilhar(1);
+            s.Empilhar(10);
+            s.Empilhar(100);
+            Console.WriteLine(s.Desempilhar());
+            Console.WriteLine(s.Desempilhar());
+            Console.WriteLine(s.Desempilhar());
             
         }
         static void Declaracoes()
@@ -47,7 +47,7 @@ namespace PrimeiroProjeto
             a = 1;
             Console.WriteLine(a + b + c + d);
         }
-// Ctrl + ; >> Cria um comentario --> comentário para regras de negócios / Expecificar como funciona ou para que serve tal código
+        // Ctrl + ; >> Cria um comentario --> comentário para regras de negócios / Expecificar como funciona ou para que serve tal código
         static void InstrucaoIf(string[] args)
         {
             if (args.Length == 0)

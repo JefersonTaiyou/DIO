@@ -5,12 +5,12 @@ namespace PrimeiroProjeto
     public class Pilha
     {
         Posicao primeiro;
-        public void Empilha(object item) 
+        public void Empilhar(object item) 
         {
             primeiro = new Posicao(primeiro, item);
         }
 
-        public object Desempilha() 
+        public object Desempilhar() 
         {
             if (primeiro == null)
             {
