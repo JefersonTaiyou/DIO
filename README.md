@@ -39,10 +39,10 @@ Repositório contendo as resoluções dos Desafios/Projetos realizados durante o
 - Cryengine
 
 ## Desafios de Linguagem:
-- 
+- [Desafio GFT Start #3 .NET [Repos]](https://github.com/JefersonTaiyou/TipoValorReferencia#desafio-de-c%C3%B3digo)
 
 ## Bootcamps em andamento: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".net" title=".NET" style="max-width: 100%;" width="35" height="35" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" style="max-width: 100%;" width="35" height="35" align="center">
 
 - [LocalizaLabs .NET Developer #2](https://web.dio.me/track/localiza-net-developer-2) **[ 13 / 30]**
-- [GFT Start #3 .NET ](https://web.dio.me/track/gft-start-3-net) **[ 11 / 23]**
+- [GFT Start #3 .NET](https://web.dio.me/track/gft-start-3-net) **[ 11 / 23]**
 
