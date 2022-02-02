@@ -8,7 +8,7 @@ class Program{
 
   static void Main(string[] args){
 
-  Wizard hero = new Wizard("Jeff", 25, "Knight", 200, 20);
+  Player hero = new Player("Jeff", 25, "Knight", 200, 20);
 
   WriteLine($"{hero.Name} {hero.Attack()} contra {hero.Name}");
 
