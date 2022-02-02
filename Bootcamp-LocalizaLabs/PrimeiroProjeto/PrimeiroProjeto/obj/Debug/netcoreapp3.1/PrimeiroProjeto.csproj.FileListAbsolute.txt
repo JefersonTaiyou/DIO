@@ -11,3 +11,10 @@ C:\Users\Nathan Taiyou\Desktop\DIO - Bootcamps\Digital-Innovation-One\Bootcamp L
 C:\Users\Nathan Taiyou\Desktop\DIO - Bootcamps\Digital-Innovation-One\Bootcamp LocalizaLabs\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.dll
 C:\Users\Nathan Taiyou\Desktop\DIO - Bootcamps\Digital-Innovation-One\Bootcamp LocalizaLabs\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.pdb
 C:\Users\Nathan Taiyou\Desktop\DIO - Bootcamps\Digital-Innovation-One\Bootcamp LocalizaLabs\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\Nathan Taiyou\Desktop\DIO - Bootcamps\Digital-Innovation-One\Bootcamp-LocalizaLabs\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\Nathan Taiyou\Desktop\DIO - Bootcamps\Digital-Innovation-One\Bootcamp-LocalizaLabs\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Taiyou\Desktop\DIO - Bootcamps\Digital-Innovation-One\Bootcamp-LocalizaLabs\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Nathan Taiyou\Desktop\DIO - Bootcamps\Digital-Innovation-One\Bootcamp-LocalizaLabs\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\Nathan Taiyou\Desktop\DIO - Bootcamps\Digital-Innovation-One\Bootcamp-LocalizaLabs\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Taiyou\Desktop\DIO - Bootcamps\Digital-Innovation-One\Bootcamp-LocalizaLabs\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.dll
+C:\Users\Nathan Taiyou\Desktop\DIO - Bootcamps\Digital-Innovation-One\Bootcamp-LocalizaLabs\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.pdb
