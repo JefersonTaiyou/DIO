@@ -11,6 +11,7 @@ class Program{
   Player hero = new Player("Jeff", 25, "Knight", 200, 20);
 
   WriteLine($"{hero.Name} {hero.Attack()} contra {hero.Name}");
+  WriteLine($"{hero.Name} {hero.Attack(2)} contra {hero.Name}");
 
   }
 
